@@ -18,7 +18,7 @@ Learn all of the fundamentals of Java, and have fun while doing it – with Solo
 Ruby Tutorial
 [x] Basic Concepts
 [x] Conditional and Loops
-[ ] Arrays
+[x] Arrays
 [ ] Classes and Objects
 [ ] More on Classes
 [ ] Exception, Lists, Threads & Files
