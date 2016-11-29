@@ -19,8 +19,8 @@ Ruby Tutorial
 [x] Basic Concepts
 [x] Conditional and Loops
 [x] Arrays
-[ ] Classes and Objects
-[ ] More on Classes
+[x] Classes and Objects
+[x] More on Classes
 [ ] Exception, Lists, Threads & Files
 [ ] Certificate
 ```
