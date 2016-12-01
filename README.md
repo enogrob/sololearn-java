@@ -21,7 +21,7 @@ Ruby Tutorial
 [x] Arrays
 [x] Classes and Objects
 [x] More on Classes
-[ ] Exception, Lists, Threads & Files
-[ ] Certificate
+[x] Exception, Lists, Threads & Files
+[x] Certificate
 ```
 
